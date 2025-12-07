@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="deg_to_rad/deg_to_rad.vcxproj" Id="0c52bba5-0551-487f-9239-68a1b855d386" />
+</Solution>
