@@ -1,0 +1,2 @@
+# game_cg_math_lesson
+ゲームCG数学デモ用のプロジェクトです
